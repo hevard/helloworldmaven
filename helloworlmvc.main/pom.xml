@@ -16,13 +16,13 @@
   	</dependency>
   	<dependency>
   		<groupId>fr.exia</groupId>
-  		<artifactId>helloworlmvc.view</artifactId>
+  		<artifactId>helloworlmvc.modele</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   		<type>pom</type>
   	</dependency>
   	<dependency>
   		<groupId>fr.exia</groupId>
-  		<artifactId>helloworlmvc.modele</artifactId>
+  		<artifactId>helloworlmvc.view</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   		<type>pom</type>
   	</dependency>
