@@ -4,4 +4,11 @@
   <artifactId>helloworldmaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>helloworlmvc.controller</module>
+  	<module>helloworlmvc.modele</module>
+  	<module>helloworlmvc.view</module>
+  	<module>helloworlmvc.main</module>
+  	<module>helloworlmvc.Contract</module>
+  </modules>
 </project>
